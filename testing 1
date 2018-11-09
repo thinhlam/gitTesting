@@ -1,4 +1,4 @@
-Testing file 1
+Testing file 1 edited
 
 <message>
   <body>{"refund":{"refundAmount":{"currency":"USD","value":"239"},"refundReason":"closes size not match"},"refundStatus":"REFUND_SUCCESS","resultInfo":{"resultCode":"SUCCESS","resultCodeId":"00000000","resultMsg":"success","resultStatus":"S"}}</body>
@@ -7,3 +7,8 @@ Testing file 1
   <function>alipayplus.acquiring.refund.query</function>
   <tntInstId></tntInstId>
 </message>
+
+
+
+
+Add new line
