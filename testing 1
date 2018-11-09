@@ -13,3 +13,4 @@ Testing file 1 edited
 
 Add new line
 Add new line on develop
+This line on develop should conflict with feature_1
