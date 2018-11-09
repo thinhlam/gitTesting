@@ -3,8 +3,8 @@ Testing file 1 edited
 <message>
   <body>{"refund":{"refundAmount":{"currency":"USD","value":"239"},"refundReason":"closes size not match"},"refundStatus":"REFUND_SUCCESS","resultInfo":{"resultCode":"SUCCESS","resultCodeId":"00000000","resultMsg":"success","resultStatus":"S"}}</body>
   <clientId>123456</clientId>
-  <version>2.0</version>
-  <function>alipayplus.acquiring.refund.query</function>
+  <version>3.0</version>
+  <function>alipayplus.acquiring.refund.query.error</function>
   <tntInstId></tntInstId>
 </message>
 
@@ -14,3 +14,4 @@ Testing file 1 edited
 Add new line
 Add new line on develop
 This line on develop should conflict with feature_1
+Add another one line
