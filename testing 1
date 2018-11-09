@@ -1,0 +1,9 @@
+Testing file 1
+
+<message>
+  <body>{"refund":{"refundAmount":{"currency":"USD","value":"239"},"refundReason":"closes size not match"},"refundStatus":"REFUND_SUCCESS","resultInfo":{"resultCode":"SUCCESS","resultCodeId":"00000000","resultMsg":"success","resultStatus":"S"}}</body>
+  <clientId>123456</clientId>
+  <version>2.0</version>
+  <function>alipayplus.acquiring.refund.query</function>
+  <tntInstId></tntInstId>
+</message>
