@@ -8,7 +8,7 @@ ITransReceiverService __transType: 220801 - server_channel_system_id: DANA22 - c
 |
 #public class IFINFLUX_MERCHANTDispatcherParser extends InnerWsRequestMessageDispatcherParser
 |
-| sgw_transtype_channel_map
+| sgw_transtype_channel_map edited same place
 |
 parser : channel_system_id: Ifinflux_merchant, transactionType: 2200801, out_trans_code: IFINFLUX_DANA02, Gateway_mode: Server
 |
