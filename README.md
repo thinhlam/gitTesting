@@ -14,6 +14,8 @@ parser : channel_system_id: Ifinflux_merchant, transactionType: 2200801, out_tra
 |
 | sgw_parser_template
 |
+
+Change 1 line
 DANA220801ApplyTokenRequestParser parse request
 |
 | sgw_assemble_template (out_trans_code : DANA02, MessageType: CallMessage)
